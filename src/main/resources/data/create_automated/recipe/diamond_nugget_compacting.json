@@ -1,6 +1,6 @@
 {
   "type": "create:compacting",
-  "heat_requirement": "heated",
+  "heat_requirement": "superheated",
   "ingredients": [
     {
       "item": "create_automated:compact_coal"
