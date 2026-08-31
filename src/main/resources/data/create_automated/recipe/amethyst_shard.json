@@ -1,0 +1,17 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "create:rose_quartz"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:amethyst_shard"
+    },
+    {
+      "id": "minecraft:amethyst_shard",
+      "chance": 0.5
+    }
+  ]
+}

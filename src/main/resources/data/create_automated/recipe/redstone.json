@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:red_sand"
+    }
+  ],
+  "processing_time": 100,
+  "results": [
+    {
+      "chance": 0.33,
+      "id": "minecraft:redstone"
+    }
+  ]
+}

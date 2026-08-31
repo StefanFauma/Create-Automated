@@ -1,0 +1,27 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:brass_ingot"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create_automated:compact_coal"
+    },
+    {
+      "item": "create_automated:compact_coal"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.8,
+      "id": "create_automated:coated_brass_ingot"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    {
+      "item": "minecraft:gilded_blackstone"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    },
+    {
+      "item": "create_automated:hardened_brass_ingot"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_automated:small_netherite_scrap"
+    }
+  ]
+}

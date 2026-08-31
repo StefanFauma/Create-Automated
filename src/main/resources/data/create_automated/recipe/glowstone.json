@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "QC ",
+        "CQ ",
+        "   "
+    ],
+    "key": {
+        "C": {
+            "item": "create:cinder_flour"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:glowstone"
+    }
+}

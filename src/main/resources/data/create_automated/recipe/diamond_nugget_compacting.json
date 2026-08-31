@@ -1,0 +1,36 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "create_automated:compact_coal"
+    },
+    {
+      "item": "create_automated:compact_coal"
+    },
+    {
+      "item": "create_automated:compact_coal"
+    },
+    {
+      "item": "create_automated:compact_coal"
+    }
+  ],
+  "results": [
+    {
+      "chance": 0.5,
+      "id": "minecraft:coal"
+    },
+    {
+      "chance": 0.05,
+      "id": "create_automated:diamond_nugget"
+    },
+    {
+      "chance": 0.5,
+      "id": "minecraft:coal_block"
+    },
+    {
+      "chance": 0.5,
+      "id": "create_automated:compact_coal"
+    }
+  ]
+}

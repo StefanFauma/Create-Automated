@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0,
+  "ingredient": {
+    "item": "minecraft:tuff"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:deepslate"
+  }
+}

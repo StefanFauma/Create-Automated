@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:smooth_sandstone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+],
+  "results": [
+    {
+      "id": "minecraft:end_stone",
+      "count": 2
+    }
+  ]
+}
