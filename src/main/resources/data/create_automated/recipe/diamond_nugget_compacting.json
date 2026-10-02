@@ -21,7 +21,7 @@
       "id": "minecraft:coal"
     },
     {
-      "chance": 0.05,
+      "chance": 0.2,
       "id": "create_automated:diamond_nugget"
     },
     {
